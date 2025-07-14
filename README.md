@@ -2,14 +2,14 @@
 
 An AI-powered online education system that adapts to learners’ preferences, progress, and goals. This platform offers interactive course materials, quizzes, a chatbot for assistance, and real-time progress tracking.
 
-## 📌 Features
+##  Features
 
-- 🧠 **AI Chatbot**: Instant Q&A and personalized study suggestions
-- 🎓 **Course Recommendation**: Based on learner’s preferences and progress
-- 📹 **Video Lectures**: Unlock quizzes after watching all videos
-- 📊 **Admin Dashboard**: Manage courses, track students, view analytics
-- 🧪 **Adaptive Quizzes**: Personalized testing experience
-- 📱 **Responsive UI**: Accessible from desktop, tablet, and mobile
+- **AI Chatbot**: Instant Q&A and personalized study suggestions
+-  **Course Recommendation**: Based on learner’s preferences and progress
+-  **Video Lectures**: Unlock quizzes after watching all videos
+-  **Admin Dashboard**: Manage courses, track students, view analytics
+-  **Adaptive Quizzes**: Personalized testing experience
+-  **Responsive UI**: Accessible from desktop, tablet, and mobile
 
 ## ⚙️ Technologies Used
 
@@ -26,7 +26,7 @@ An AI-powered online education system that adapts to learners’ preferences, pr
 - Pandas (CSV Q&A matching)
 - chardet (for encoding detection)
 
-## 🧰 Project Structure
+##  Project Structure
 
 ```bash
 project-root/
@@ -44,7 +44,7 @@ project-root/
 ├── README.md               # Project documentation
 ```
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
 ### 1. Start Backend Services
 - Launch **XAMPP** or **WAMP** for Apache + MySQL
@@ -62,17 +62,17 @@ Make sure the chatbot runs on `http://127.0.0.1:5000`
 - Place the project folder inside `htdocs` (if using XAMPP)
 - Open browser: `http://localhost/Project/Main-Dashboard.php`
 
-## 📷 Screenshots
+##  Screenshots
 - Admin & Student Dashboards
 - Chatbot with Q&A
 - Course selection and progress tracking
 - Adaptive Quiz with unlock logic
 
-## 📈 Future Improvements
+##  Future Improvements
 - Add NLP capabilities to chatbot
 - Host Flask API on cloud (Heroku/AWS)
 - Integrate push notifications and gamification
 - Launch mobile app version (React Native)
 
-## 📚 License
+## License
 MIT License
